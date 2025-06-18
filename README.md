@@ -12,7 +12,7 @@
 
 We’re developing open infrastructure that makes agent workflows secure, auditable, and compliant — from redaction to runtime enforcement.
 
-> 💡 Interested in using Vault Plus in your stack? Reach out at [founder@marvisvault.com](mailto:founder@marvisvault.com)
+> 💡 Interested in using Vault Plus in your stack? Reach out at [founder@marvisvault.com](mailto:founder@marvisvault.com) or [Visit Our Website](https://www.marvisvault.com/)
 ---
 
 ## 🚀 What We're Building
@@ -70,5 +70,5 @@ We’re open to:
 - Contributors who want to help secure the agentic future
 - Startup and enterprise collaborators working on AI infrastructure
 
-Contact: founder@marvisvault.com
+Contact: [Email](mailto:founder@marvisvault.com) or [Website](https://www.marvisvault.com/)
 
