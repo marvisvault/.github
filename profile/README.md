@@ -20,7 +20,7 @@ We’re developing open infrastructure that makes agent workflows secure, audita
 🔐 **Marvis Vault OSS**  
 - Runtime redaction, policy enforcement, audit logging  
 - CLI + SDK for AI pipelines and agentic apps  
-- [Repo →](https://github.com/marvisvault/marvis-vault)
+- [Org Repo →](https://github.com/marvisvault)
 
 🧱 **Vault Plus (Coming Soon)**  
 - Hosted FastAPI service  
