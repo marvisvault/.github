@@ -8,7 +8,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/marvisvault/marvis-vault)
 ![Issues](https://img.shields.io/github/issues/marvisvault/marvis-vault)
 
-**Marvis Vault** is building the trust and compliance layer for AI agents.
+**Building the trust and compliance layer for AI agents.
 
 We’re developing open infrastructure that makes agent workflows secure, auditable, and compliant — from redaction to runtime enforcement.
 
